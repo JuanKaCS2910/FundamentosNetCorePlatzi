@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PlatziNetCore\\Etapa1\\Etapa1.csproj": {}
+    "C:\\PlatziNetCore\\Etapa1\\FundamentosNetCorePlatzi\\Etapa1.csproj": {}
   },
   "projects": {
-    "C:\\PlatziNetCore\\Etapa1\\Etapa1.csproj": {
+    "C:\\PlatziNetCore\\Etapa1\\FundamentosNetCorePlatzi\\Etapa1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PlatziNetCore\\Etapa1\\Etapa1.csproj",
+        "projectUniqueName": "C:\\PlatziNetCore\\Etapa1\\FundamentosNetCorePlatzi\\Etapa1.csproj",
         "projectName": "Etapa1",
-        "projectPath": "C:\\PlatziNetCore\\Etapa1\\Etapa1.csproj",
+        "projectPath": "C:\\PlatziNetCore\\Etapa1\\FundamentosNetCorePlatzi\\Etapa1.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\PlatziNetCore\\Etapa1\\obj\\",
+        "outputPath": "C:\\PlatziNetCore\\Etapa1\\FundamentosNetCorePlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

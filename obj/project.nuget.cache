@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qywvWyPwPszX5JxdYOdBksZA6PmLhbF4h+Bu/9NrqzlQxZ+Dqq8UItZQQxYa/lroHH3WtPHRrifThu9HG+oufQ==",
+  "dgSpecHash": "uQiubI0xI/6nTuY86DKdtDa5RIEAEgk7peXy9j/VmJ8SM/jK3vBBTHBrzd2nSrOUfcxG8VWwijfoHqTEEyJ2SQ==",
   "success": true,
-  "projectFilePath": "C:\\PlatziNetCore\\Etapa1\\Etapa1.csproj",
+  "projectFilePath": "C:\\PlatziNetCore\\Etapa1\\FundamentosNetCorePlatzi\\Etapa1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
