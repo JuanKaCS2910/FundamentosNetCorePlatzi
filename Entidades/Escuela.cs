@@ -1,4 +1,4 @@
-namespace CoreEscuela.Entidades
+namespace FundamentosNetCorePlatzi.Entidades
 {
     public enum TiposDeEscuela
     {
@@ -24,6 +24,7 @@ namespace CoreEscuela.Entidades
         public string Ciudad { get; set; }
 
         public TiposDeEscuela tipoEscuela { get; set; }
+        public Curso[] Cursos { get; set; }
 
         public Escuela(string nombre, int año) => (Nombre, AñoDeCreacion) = (nombre, año);
 
