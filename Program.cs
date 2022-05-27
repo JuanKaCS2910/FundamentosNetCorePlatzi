@@ -30,3 +30,18 @@ for (int i = 0; i < arreglosCursos.Length; i++)
     Console.WriteLine("Curso " + i + " | Nombre : " + arreglosCursos[i].nombre + 
     " | UniqueId : " + arreglosCursos[i].uniqueId);
 }
+imprimirCursoDoWhile(arreglosCursos);
+
+static void imprimirCursoDoWhile(Curso[] arregloCursos)
+{
+    int contador = 0;
+    Console.WriteLine("================");
+    Console.WriteLine("Do While");
+    do
+    {
+        Console.WriteLine("Curso " + contador +
+         " | Nombre : " + arregloCursos[contador].nombre + 
+        " | UniqueId : " + arregloCursos[contador].uniqueId);
+        contador++;
+    } while (contador < arregloCursos.Length);
+}
